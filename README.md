@@ -1,43 +1,29 @@
-<h2 align="left">Hi 👋! Soy CIsco....  Un desarrollador dominicano  que le gusta crear cosas nuevas e interesantes, actualmente ejerzo el rol de Engineering Manager</h2>
+<p align="center">
+  <img src="assets/banner.png" alt="Cisco Juan — IA, dev y tech en español" width="100%" />
+</p>
 
-###
+## Hola, soy Cisco Juan 👋
 
-<img align="right" height="150" src="https://avatars.githubusercontent.com/u/47932776"  />
+IA, dev y tech en español 🤖 Explico cómo funciona la tecnología que usas todos los días.
 
-###
+Soy desarrollador dominicano. Hablo de IA (modelos, agentes y cómo funcionan los LLM), de historia de la tecnología y de conceptos para devs que empiezan.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="30" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-</div>
+### Qué hago
 
-###
+- **PF Solutions**: desarrollo web y sistemas a medida para pymes.
+- **Contenido sobre IA**: videos y posts que explican la tecnología sin hype.
 
-<div align="left">
-  <a href="https://www.instagram.com/ciscojuan_/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="francisco.rnaut@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/ci5co/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
+### Stack
 
-###
+<img src="https://img.shields.io/badge/TypeScript-15181D?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/JavaScript-15181D?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" /> <img src="https://img.shields.io/badge/Astro-15181D?style=flat-square&logo=astro&logoColor=white" alt="Astro" /> <img src="https://img.shields.io/badge/HTML5-15181D?style=flat-square&logo=html5&logoColor=white" alt="HTML5" /> <img src="https://img.shields.io/badge/CSS-15181D?style=flat-square&logo=css&logoColor=white" alt="CSS" />
+<img src="https://img.shields.io/badge/Python-15181D?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/Dart-15181D?style=flat-square&logo=dart&logoColor=white" alt="Dart" /> <img src="https://img.shields.io/badge/C%2B%2B-15181D?style=flat-square&logo=cplusplus&logoColor=white" alt="C%2B%2B" /> <img src="https://img.shields.io/badge/QML-15181D?style=flat-square&logo=qt&logoColor=white" alt="QML" /> <img src="https://img.shields.io/badge/Shell-15181D?style=flat-square&logo=gnubash&logoColor=white" alt="Shell" /> <img src="https://img.shields.io/badge/Docker-15181D?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
 
-<br clear="both">
+### Proyectos destacados
 
-<img src="https://raw.githubusercontent.com/cisco-juan/cisco-juan/output/snake.svg" alt="Snake animation" />
+**[qa-tester](https://github.com/cisco-juan/qa-tester)**: plugin de Cursor para probar apps web como lo haría un usuario. Describes el flujo en lenguaje natural, y el agente arma los casos, navega con Playwright y deja un reporte. Si algo falla, el reporte trae capturas, video, trace, consola y requests HTTP.
 
-###
+**[linux-dynamic-island](https://github.com/cisco-juan/linux-dynamic-island)**: una Dynamic Island al estilo Apple para KDE Plasma 6 en Wayland. Es una píldora arriba al centro que se expande para mostrar notificaciones, la música que suena (MPRIS), un calendario y ajustes de volumen, brillo y Bluetooth. Está hecha con QML y C++ sobre layer-shell, así que no roba el foco.
+
+### Dónde encontrarme
+
+<a href="https://www.youtube.com/@CiscoJuanDev"><img src="https://img.shields.io/badge/YouTube-0B6A82?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a> <a href="https://www.tiktok.com/@ciscojuan_"><img src="https://img.shields.io/badge/TikTok-0B6A82?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" /></a> <a href="https://www.linkedin.com/in/ci5co"><img src="https://img.shields.io/badge/LinkedIn-0B6A82?style=for-the-badge" alt="LinkedIn" /></a> <a href="https://x.com/ciscojuan2"><img src="https://img.shields.io/badge/X-0B6A82?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
